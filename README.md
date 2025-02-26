@@ -48,7 +48,7 @@ Always eager to innovate, optimize, and build the future of frontend development
             <img height=60px alt="NgRx" src="https://ngrx.io/assets/images/badge.svg"> 
          </td>
          <td align="center" width="20%">
-            <img height=60px alt="Nx" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgfa5H539-n9jzBTNPffDOeMs6C5NyGr0eUA&s"> 
+            <img height=60px alt="Nx" src="https://raw.githubusercontent.com/nrwl/nx/master/nx-logo.png"> 
          </td>
       </tr>
       <tr>
