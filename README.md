@@ -1,7 +1,7 @@
 ### WELCOME TO MY PAGE 👋👋👋
 #### Frontend Developer | Angular | Performance Optimization
-My name is Phuoc Nguyen. I’m a **Frontend Developer** with nearly 5 years of experience in Angular, specializing in scalable architecture, performance optimization, and UI/UX best practices. I have worked on high-standard projects, ensuring compliance with ISO regulations in a laboratory environment.
-Currently, I’m expanding my expertise in React and Backend (Node.js/NestJS) to become an **AI-Powered Frontend Architect**, integrating AI-driven solutions into modern web applications.
+My name is Phuoc Nguyen. I’m a **Frontend Developer** with nearly 5 years of experience in Angular, specializing in scalable architecture, performance optimization, and UI/UX best practices. I have worked on high-standard projects, ensuring compliance with ISO regulations in a laboratory environment.<br>
+Currently, I’m expanding my expertise in React and Backend (Node.js/NestJS) to become an **AI-Powered Frontend Architect**, integrating AI-driven solutions into modern web applications.<br>
 Always eager to innovate, optimize, and build the future of frontend development.<br>
 
 - 💬 Ask me about anything
