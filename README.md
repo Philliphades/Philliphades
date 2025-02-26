@@ -56,7 +56,7 @@ Always eager to innovate, optimize, and build the future of frontend development
             <img height=60px alt="Material UI" src="https://mui.com/static/logo.png"> 
          </td>
          <td align="center" width="20%">
-            <img height=60px alt="Ant Design" src="https://ant.design/static/logo.svg"> 
+            <img height=60px alt="Ant Design" src="https://ng.ant.design/assets/img/logo.svg"> 
          </td>
          <td align="center" width="20%">
             <img height=60px alt="Tailwind CSS" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"> 
@@ -70,13 +70,13 @@ Always eager to innovate, optimize, and build the future of frontend development
             <img height=60px alt="SCSS" src="https://sass-lang.com/assets/img/logos/logo.svg"> 
          </td>
          <td align="center" width="20%">
-            <img height=60px alt="Highcharts" src="https://www.highcharts.com/media/highsoft/logo/Highcharts_Logo_Blue.svg"> 
+            <img height=60px alt="Highcharts" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShpGVuIGeR909FJCxgz84z0uyfIjFLkwU8TA&s"> 
          </td>
          <td align="center" width="20%">
             <img height=60px alt="Lodash" src="https://lodash.com/assets/img/lodash.svg"> 
          </td>
-         <td align="center" width="20%">
-            <img height=60px alt="GoJS" src="https://gojs.net/latest/images/go-logo.svg"> 
+        <td align="center" width="20%">
+            <img height=60px alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"> 
          </td>
       </tr>
       <tr>
@@ -88,9 +88,6 @@ Always eager to innovate, optimize, and build the future of frontend development
          </td>
          <td align="center" width="20%">
             <img height=60px alt="Git" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
-         </td>
-         <td align="center" width="20%">
-            <img height=60px alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"> 
          </td>
       </tr>
    </tbody>
