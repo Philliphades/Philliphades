@@ -10,8 +10,8 @@ Always eager to innovate, optimize, and build the future of frontend development
 - 😄 Pronouns: Mr
 
 <p align="center">
-  <a href="https://github.com/phuocnguyen210495?tab=followers" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/github/followers/phuocnguyen210495?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  <a href="https://github.com/Philliphades?tab=followers" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/github/followers/Philliphades?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="https://www.linkedin.com/in/phuoc-nguyen-le-xuan-5200931347021041995/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn badge" />
